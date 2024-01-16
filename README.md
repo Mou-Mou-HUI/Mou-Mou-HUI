@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/爱好-美术-yellow)
 
 
+![头像](R.jpg)
   
 <!--
 **Mou-Mou-HUI/Mou-Mou-HUI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
